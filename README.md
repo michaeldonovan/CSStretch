@@ -1,4 +1,5 @@
-A launcher script for Counter Strike 2 to simplify ussage of stretched 4:3 (and more) aspect ratio output while using windowed fullscreen mode.
+# CSStretch
+A launcher script for Counter Strike 2 to simplify usage of stretched 4:3 (and more) aspect ratio output while using windowed fullscreen mode.
 
 # Installation
 1. Download [QRes](https://www.majorgeeks.com/files/details/qres.html) and place it in the same directory as CSStretch.exe, or add it to your PATH environment variable.
